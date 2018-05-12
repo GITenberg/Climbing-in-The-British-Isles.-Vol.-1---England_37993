@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '38883'
     url: http://www.gutenberg.org/2009/agents/38883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37993#Climbing-in-The-British-Isles.-Vol.-1---England
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-11-12'
 gutenberg_type: Text
